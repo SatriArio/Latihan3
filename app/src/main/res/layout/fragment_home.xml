@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/pink"
+    tools:context=".HomeFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="23dp"
+        android:layout_marginTop="14dp"
+        android:layout_marginEnd="308dp"
+        android:layout_marginBottom="674dp"
+        android:text="Home"
+        android:textColor="@color/blueberry"
+        android:textSize="30sp"
+        android:textStyle="bold" />
+
+    <ImageView
+        android:layout_width="170dp"
+        android:layout_height="200dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="125dp"
+        android:layout_marginTop="58dp"
+        android:layout_marginEnd="116dp"
+        android:layout_marginBottom="473dp"
+        android:src="@drawable/profile_picture" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="131dp"
+        android:layout_marginTop="269dp"
+        android:layout_marginEnd="115dp"
+        android:layout_marginBottom="443dp"
+        android:text="A guy which want to sleep"
+        android:textColor="@color/blueberry"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="25dp"
+        android:layout_marginTop="352dp"
+        android:layout_marginEnd="127dp"
+        android:layout_marginBottom="360dp"
+        android:text="Hobby : Playing Games and Read Comics"
+        android:textColor="@color/blueberry"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="380dp"
+        android:layout_marginEnd="79dp"
+        android:layout_marginBottom="332dp"
+        android:text="Makes : Burger, Pizza, Mie Soto dan Nasi Goreng"
+        android:textColor="@color/blueberry"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="412dp"
+        android:layout_marginEnd="276dp"
+        android:layout_marginBottom="300dp"
+        android:text="Mikes : Jus Jeruk"
+        android:textColor="@color/blueberry"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="441dp"
+        android:layout_marginEnd="166dp"
+        android:layout_marginBottom="271dp"
+        android:text="Interest to Nogizaka46 (乃木坂46)"
+        android:textColor="@color/blueberry"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="475dp"
+        android:layout_marginEnd="287dp"
+        android:layout_marginBottom="237dp"
+        android:text="Cita-cita : None"
+        android:textColor="@color/blueberry"
+        android:textStyle="bold" />
+
+</RelativeLayout>
